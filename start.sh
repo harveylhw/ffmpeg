@@ -4,8 +4,8 @@ export PATH
 #=================================================================#
 #   System Required: CentOS7 X86_64                               #
 #   Description: FFmpeg Stream Media Server                       #
-#   Author: LALA                                    #
-#   Website: https://www.lala.im                                  #
+#   Author: Harvey                                                #
+#   Website: https://bk.hyblog.ml/                                #
 #=================================================================#
 
 # 颜色选择
